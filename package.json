@@ -117,6 +117,9 @@
     ],
     "first": "fer1"
   },
+  "resolutions": {
+    "graceful-fs": "^4.2.9"
+  },
   "galaxy": {
     "datatypes": [
       "sequence.Fasta",
