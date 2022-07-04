@@ -1,11 +1,11 @@
 { 
-  "name": "msa",
-  "description": "Display multiple sequences",
-  "version": "0.0.0",
-  "homepage": "http://github.com/wilzbach/msa",
+  "name": "@galaxyproject/msa",
+  "description": "Display multiple sequences (Galaxy Maintenance Fork)",
+  "version": "1.0.0",
+  "homepage": "http://github.com/galaxyproject/msa",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wilzbach/msa"
+    "url": "git://github.com/galaxyproject/msa"
   },
   "contributors": [
     {
